@@ -1,0 +1,1 @@
+from hackernews.settings import *
